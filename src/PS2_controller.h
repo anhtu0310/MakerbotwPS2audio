@@ -1,6 +1,11 @@
 #include <PS2X_lib.h>
 
 PS2X ps2x; // create PS2 Controller Class object
+#define BEBUG_CTRL
+
+// calibration for different kinds of PS2 controller, this value only suitable for the PS2 controller comes with VRC2023 K12 Maker kit 
+#define X_JOY_CALIB 127
+#define Y_JOY_CALIB 128
 
 #define PS2_DAT 12 // MISO  19
 #define PS2_CMD 13 // MOSI  23
@@ -21,6 +26,7 @@ void setupPS2controller()
   {
     err = ps2x.config_gamepad(PS2_CLK, PS2_CMD, PS2_SEL, PS2_DAT, true, true);
   }
+
 }
 bool PS2control()
 {
@@ -29,12 +35,18 @@ bool PS2control()
     speed = TOP_SPEED;
    if (ps2x.ButtonPressed(PSB_SELECT))
     driving_mode =! driving_mode;
+  
 
-  int nJoyX = 128 - ps2x.Analog(PSS_RX); // read x-joystick
-  int nJoyY = 128 - (driving_mode ? ps2x.Analog(PSS_LY) :ps2x.Analog(PSS_RY)); // read y-joystick
+  int nJoyX = X_JOY_CALIB - ps2x.Analog(PSS_RX); // read x-joystick
+  int nJoyY = Y_JOY_CALIB - (driving_mode ? ps2x.Analog(PSS_LY) :ps2x.Analog(PSS_RY)); // read y-joystick
   int nMotMixL;                          // Motor (left) mixed output
   int nMotMixR;                          // Motor (right) mixed output
 
+  if(nJoyX == -1 && nJoyY == 0) // in case of lost connection with the wireless controller, only used in VRC2023 PS2 wireless controller 
+  {
+    setPWMMotors(0, 0, 0, 0);
+    return 0;
+  }
 
   bool temp = (nJoyY * nJoyX > 0);
   if (nJoyX) // Turning

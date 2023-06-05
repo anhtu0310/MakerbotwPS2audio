@@ -1,156 +1,167 @@
 .pio/build/esp32dev/src/MakerBotwPS2.ino.cpp.o: src/MakerBotwPS2.ino.cpp \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_compiler.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/FreeRTOSConfig_arch.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/xtensa_config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/hal.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/core.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa-versions.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/core-matmap.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/tie.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/system.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/xtensa_context.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_context.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/corebits.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime-frames.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp_rom_sys.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/reset_reasons.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/ets_sys.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/projdefs.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/portable.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/deprecated_definitions.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portmacro.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/specreg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime-core-state.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xt_instr_macros.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/spinlock.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/cpu.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_cpu.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/cpu_hal.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_err.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_compiler.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc_caps.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/cpu_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/esp32/include/hal/cpu_ll.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_attr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/extreg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_bit_defs.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/compare_set.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/soc_memory_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_assert.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_private/crosscore_int.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_timer/include/esp_timer.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include/esp_newlib.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/heap/include/esp_heap_caps.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/heap/include/multi_heap.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_system.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_idf_version.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_mac.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_chip_info.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_random.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portbenchmark.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_api.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_context.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portmacro_deprecated.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/mpu_wrappers.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/task.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/list.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/task_snapshot.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/semphr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/queue.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/task.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_sleep.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/touch_sensor_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/gpio_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/gpio_periph.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/io_mux_reg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_struct.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_reg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_sig_map.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/queue.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/event_groups.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/timers.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log_internal.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-dac.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/gpio.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_intr_alloc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/gpio.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-adc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-ledc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rmt.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-sigmadelta.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-timer.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-bt.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-psram.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-cpu.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp8266-compat.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/stdlib_noniso.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/binary.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WCharacter.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/pgmspace.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_partition.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_flash.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/spi_flash_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/esp_flash_err.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/variants/esp32/pins_arduino.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_compiler.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/FreeRTOSConfig_arch.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/xtensa_config.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/hal.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/core.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa-versions.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/tie.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/system.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/xtensa_context.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_context.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/corebits.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime-frames.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp_rom_sys.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/reset_reasons.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/ets_sys.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/projdefs.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/portable.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/deprecated_definitions.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portmacro.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/specreg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime-core-state.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xt_instr_macros.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtruntime.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/spinlock.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/cpu.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_cpu.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/cpu_hal.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_err.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_compiler.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc_caps.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/cpu_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/esp32/include/hal/cpu_ll.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_attr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/esp32/include/xtensa/config/extreg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_bit_defs.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/compare_set.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/soc_memory_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_assert.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_private/crosscore_int.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_timer/include/esp_timer.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include/esp_newlib.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/heap/include/esp_heap_caps.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/heap/include/multi_heap.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_system.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_idf_version.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_mac.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_chip_info.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_random.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portbenchmark.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_api.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/xtensa/include/xtensa/xtensa_context.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/port/xtensa/include/freertos/portmacro_deprecated.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/mpu_wrappers.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/task.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/list.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/task_snapshot.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/semphr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/queue.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/task.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_sleep.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/touch_sensor_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/gpio_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/gpio_periph.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/io_mux_reg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_struct.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_reg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/gpio_sig_map.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/queue.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/event_groups.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/timers.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/log/include/esp_log_internal.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/variants/esp32/pins_arduino.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-dac.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/gpio.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_intr_alloc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/gpio.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-adc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-ledc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rmt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-sigmadelta.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-timer.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-bt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-psram.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rgb-led.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-cpu.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp8266-compat.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/stdlib_noniso.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/binary.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WCharacter.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/pgmspace.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_partition.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_flash.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/spi_flash_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/esp_flash_err.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  src/motors.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
  .pio/libdeps/esp32dev/Adafruit\ PWM\ Servo\ Driver\ Library/Adafruit_PWMServoDriver.h \
  src/PS2_controller.h \
  .pio/libdeps/esp32dev/Arduino-PS2X-ESP32-Makerbot/PS2X_lib.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src/LittleFS.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/FS/src/FS.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src/SPI.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src/LittleFS.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/FS/src/FS.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioConfig.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioRuntime.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimer.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioLogger.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerESP32.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerDef.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioTypes.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Int24.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task_wdt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task_wdt.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerESP8266.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerRP2040.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerMBED.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerAVR.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTimer/AudioTimerSTM32.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/Buffers.h \
- .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Vector.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections/Vector.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections/List.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections/Stack.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections/Queue.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Collections/BitVector.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/Converter.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioFilter/Filter.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioFilter/Equilizer.h \
@@ -162,24 +173,23 @@
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SStream.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SConfig.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SESP32.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/i2s.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/i2s_periph.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/periph_defs.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/i2s_struct.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/i2s_reg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/rtc_periph.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/rtc_io_periph.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_channel.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_reg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_struct.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_cntl_reg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_cntl_struct.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/sens_struct.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/i2s_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/periph_ctrl.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/esp32/include/driver/adc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/adc_common.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/adc_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/i2s.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/i2s_periph.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/periph_defs.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/i2s_struct.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/i2s_reg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/rtc_periph.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/include/soc/rtc_io_periph.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_channel.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_reg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_io_struct.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_cntl_reg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_cntl_struct.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/sens_struct.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/i2s_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/periph_ctrl.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/driver/include/driver/adc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/adc_types.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SESP8266.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SSAMD.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioI2S/I2SNanoSenseBLE.h \
@@ -193,9 +203,11 @@
  .pio/libdeps/esp32dev/audio-tools/src/AudioPWM/PWMAudioAVR.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioAnalog/AnalogAudio.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioAnalog/AnalogAudioESP32.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/dac_channel.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/adc_channel.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/dac_channel.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/adc_channel.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/rtc.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioAnalog/AnalogAudioArduino.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioStreamsConverter.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/Resample.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioCopy.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioMetaData/MetaData.h \
@@ -208,7 +220,7 @@
  .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/StrExt.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/HttpLineReader.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/Url.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Client.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/HttpChunkReader.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioMetaData/MetaDataID3.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioCodecs/AudioEncoded.h \
@@ -217,118 +229,119 @@
  .pio/libdeps/esp32dev/audio-tools/src/AudioCodecs/CodecNOP.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioCodecs/CodecRAW.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioCodecs/Codec8Bit.h \
- .pio/libdeps/esp32dev/audio-tools/src/AudioCodecs/CodecSimpleContainer.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/AudioHttp.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/URLStream.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src/WiFiClientSecure.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFi.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPv6Address.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiType.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiSTA.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiGeneric.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_legacy.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/esp_wifi_types_private.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_interface.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_ip_addr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_defaults.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_netif_glue.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_com.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/eth_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_mac.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_phy.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip_addr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/opt.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/lwipopts.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include/sys/ioctl.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/netif/dhcp_state.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/sntp/sntp_get_set_time.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/debug.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/arch.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/cc.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/sys_arch.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/vfs_lwip.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip4_addr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_addr.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_zone.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/include/apps/dhcpserver/dhcpserver.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_sta_list.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_smartconfig.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/manager.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/protocomm/include/common/protocomm.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/protocomm/include/security/protocomm_security.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/wifi_config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/inet.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiAP.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiScan.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiClient.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiServer.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arpa/inet.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiUdp.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src/ssl_client.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/esp_config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/esp_mem.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_time.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/net.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/net_sockets.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ssl.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/bignum.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecp.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/pk.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/md.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/rsa.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/cipher.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_util.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/asn1.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/dhm.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecdh.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/debug.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ssl.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/entropy.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/sha512.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/aes.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes_alt.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes/esp_aes.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/aes_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/error.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/esp_wifi_private.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_crypto_types.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/wifi_os_adapter.h \
- /home/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_default.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src/WiFiClientSecure.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFi.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPv6Address.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiType.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/esp_wifi_types_private.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/esp_interface.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiSTA.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiGeneric.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_event/include/esp_event_legacy.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_ip_addr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_defaults.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_netif_glue.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_com.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/eth_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_mac.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_eth/include/esp_eth_phy.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip_addr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/opt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/lwipopts.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include/sys/ioctl.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_system/include/esp_task.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/netif/dhcp_state.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/sntp/sntp_get_set_time.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/debug.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/arch.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/cc.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/sys_arch.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/port/esp32/include/arch/vfs_lwip.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip4_addr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_addr.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_zone.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/lwip/include/apps/dhcpserver/dhcpserver.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_netif/include/esp_netif_sta_list.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_smartconfig.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/manager.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/protocomm/include/common/protocomm.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/protocomm/include/security/protocomm_security.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/wifi_config.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiAP.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiScan.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiClient.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiServer.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Server.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src/WiFiUdp.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/Udp.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src/ssl_client.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/esp_config.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/config.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/esp_mem.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_time.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/net.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/net_sockets.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ssl.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/bignum.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/pk.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/md.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecdsa.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/cipher.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509_crt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/asn1.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/x509_crl.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/dhm.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecdh.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/debug.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/entropy.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/sha512.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/sha512_alt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/sha_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/sha.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/aes.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes_alt.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes/esp_aes.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/aes_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/error.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/esp_wifi_private.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_crypto_types.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_private/wifi_os_adapter.h \
+ /Users/anhtu/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_default.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/AbstractURLStream.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/URLStreamESP32.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/AudioServer.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/ICYStream.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioHttp/ICYStreamESP32.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioPlayer.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioBasic/Debouncer.h \
+ .pio/libdeps/esp32dev/audio-tools/src/AudioTools/AudioSource.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioEffects/AudioEffects.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioEffects/AudioEffect.h \
  .pio/libdeps/esp32dev/audio-tools/src/AudioEffects/AudioParameters.h \
